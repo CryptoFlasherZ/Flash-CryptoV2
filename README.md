@@ -19,6 +19,6 @@ You can generate and send up to 10 BTC daily with the basic licence and 100 BTC 
 
 -Flash BTC can be spent.
 
-## TELEGRAM USERNAME : @CryptoFlashZ
+## TELEGRAM USERNAME : @CryptoFlashG
 ## PRICE: 40$
 ### PAYMENTS: BTC,LTC,ETH,ETC
