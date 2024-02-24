@@ -3,7 +3,7 @@ Flash BTC transaction (core network) is a software designed to enable you send f
 
 This is a BTC fork that enables a BTC transaction to be generated on the BTC network, transactions generated with flash BTC transaction (core network) to any wallet on the blockchain network (Coinbase, Binance, Bybit, Localbitcoin) receive a full confirmation and stays on the network for up to 90 days with the basic license and 360 days with the premium license before being rejected by the network.
 
-You can generate and send up to 10 BTC daily with the basic licence and 1000 BTC in one transaction (as you can see in our video demo) daily with the premium licence.
+You can generate and send up to 10 BTC daily with the basic licence and 100 BTC in one transaction (as you can see in our video demo) daily with the premium licence.
 
 -You can receive the balance automatically without confirmation.
 
